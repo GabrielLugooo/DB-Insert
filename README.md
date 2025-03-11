@@ -37,15 +37,6 @@ It also provides a basic framework for handling database operations in `Python`,
 
 ### Project
 
-#### Preview
-
-\*_(all by Windows CMD)_
-
-<img align="center" src="https://i.imgur.com/ZO9TsjB.jpeg" alt="Database01" />
-<img align="center" src="https://i.imgur.com/G4rKQV8.jpeg" alt="Database02" />
-<img align="center" src="https://i.imgur.com/zypP0gc.jpeg" alt="Database03" />
-<img align="center" src="https://i.imgur.com/i2KFgMd.jpeg" alt="Database04" />
-
 #### Code with Comments (English)
 
 - **Python code to insert data into MySQL**
@@ -91,8 +82,6 @@ conexion.close()
 
 - **SQL code to create the database and table in MariaDB**
 
-  \*_(all by Windows CMD, see the process in the preview images)_
-
 ```sql
 -- Log in to MySQL as root user
 mysql -u root
@@ -119,6 +108,13 @@ DESCRIBE usuarios;
 -- Query all records from the "usuarios" table
 SELECT * FROM usuarios;
 ```
+
+#### SQL code preview in MariaDB (all by Windows CMD)
+
+<img align="center" src="https://i.imgur.com/ZO9TsjB.jpeg" alt="Database01" />
+<img align="center" src="https://i.imgur.com/G4rKQV8.jpeg" alt="Database02" />
+<img align="center" src="https://i.imgur.com/zypP0gc.jpeg" alt="Database03" />
+<img align="center" src="https://i.imgur.com/i2KFgMd.jpeg" alt="Database04" />
 
 ### Limitations
 

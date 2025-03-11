@@ -37,15 +37,6 @@ Además, proporciona una estructura básica para manejar operaciones de base de 
 
 ### Proyecto
 
-#### Vista Previa
-
-\*_(todo por Windows CMD)_
-
-<img align="center" src="https://i.imgur.com/ZO9TsjB.jpeg" alt="Database01" />
-<img align="center" src="https://i.imgur.com/G4rKQV8.jpeg" alt="Database02" />
-<img align="center" src="https://i.imgur.com/zypP0gc.jpeg" alt="Database03" />
-<img align="center" src="https://i.imgur.com/i2KFgMd.jpeg" alt="Database04" />
-
 #### Código con Comentarios (Español)
 
 - **Código en Python para insertar datos en MySQL**
@@ -92,8 +83,6 @@ conexion.close()
 
 - **Código SQL para crear la base de datos y la tabla en MariaDB**
 
-  \*_(todo por Windows CMD, mira el processo en las imagenes de vista previa)_
-
 ```sql
 -- Iniciar sesión en MySQL como usuario root
 mysql -u root
@@ -120,6 +109,13 @@ DESCRIBE usuarios;
 -- Consultar todos los registros de la tabla "usuarios"
 SELECT * FROM usuarios;
 ```
+
+#### Vista Previa del código SQL en MariaDB (todo por Windows CMD)
+
+<img align="center" src="https://i.imgur.com/ZO9TsjB.jpeg" alt="Database01" />
+<img align="center" src="https://i.imgur.com/G4rKQV8.jpeg" alt="Database02" />
+<img align="center" src="https://i.imgur.com/zypP0gc.jpeg" alt="Database03" />
+<img align="center" src="https://i.imgur.com/i2KFgMd.jpeg" alt="Database04" />
 
 ### Limitaciones
 
