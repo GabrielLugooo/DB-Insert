@@ -39,7 +39,7 @@ It also provides a basic framework for handling database operations in `Python`,
 
 #### Preview
 
-**(all by Windows CMD)**
+\*_(all by Windows CMD)_
 
 <img align="center" src="https://i.imgur.com/ZO9TsjB.jpeg" alt="Database01" />
 <img align="center" src="https://i.imgur.com/G4rKQV8.jpeg" alt="Database02" />
@@ -90,7 +90,8 @@ conexion.close()
 ```
 
 - **SQL code to create the database and table in MariaDB**
-  **(all by Windows CMD, see the process in the preview images)**
+
+  \*_(all by Windows CMD, see the process in the preview images)_
 
 ```sql
 -- Log in to MySQL as root user

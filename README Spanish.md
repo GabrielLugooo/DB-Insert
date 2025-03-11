@@ -39,7 +39,7 @@ Además, proporciona una estructura básica para manejar operaciones de base de 
 
 #### Vista Previa
 
-**(todo por Windows CMD)**
+\*_(todo por Windows CMD)_
 
 <img align="center" src="https://i.imgur.com/ZO9TsjB.jpeg" alt="Database01" />
 <img align="center" src="https://i.imgur.com/G4rKQV8.jpeg" alt="Database02" />
@@ -91,7 +91,8 @@ conexion.close()
 ```
 
 - **Código SQL para crear la base de datos y la tabla en MariaDB**
-  **(todo por Windows CMD, mira el processo en las imagenes de vista previa)**
+
+  \*_(todo por Windows CMD, mira el processo en las imagenes de vista previa)_
 
 ```sql
 -- Iniciar sesión en MySQL como usuario root
