@@ -1,0 +1,18 @@
+mysql -u root
+
+CREATE DATABASE data_base_test;
+
+SHOW DATABASES LIKE 'data_base_test';
+
+USE data_base_test;
+
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRINARY KEY,
+    nombre VARCHAR(255) NOT NULL,
+    edad INT
+);
+
+DESCRIBE usuarios;
+
+select * FROM usuarios;
+
